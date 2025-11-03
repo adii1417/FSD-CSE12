@@ -1,0 +1,13 @@
+div{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    animation-name: example;
+    animation-duration: 10s;
+}
+@keyframes example{
+    0% {background-color: aqua;}
+    25%{background-color: red ;}
+    37%{background-color: blueviolet;}
+    50%{background-color: yellow;}
+}

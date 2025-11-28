@@ -1,0 +1,7 @@
+body{font-family:sans-serif;}
+.hero{
+  height:50vh;
+  background:#333 url("https://picsum.photos/1200/500") center/cover;
+  display:flex;flex-direction:column;
+  justify-content:center;
+}
